@@ -1,4 +1,4 @@
-![# Ethereum Classic Community Repository](https://github.com/ethereumclassic/.github/blob/618d494bbaba1232e8ece504c5981b3e3a572c8b/Mokoto%20Glitch%201.svg)
+![# Ethereum Classic Community Repository](../ref/banner_logo.svg)
 
 ## Description
 
