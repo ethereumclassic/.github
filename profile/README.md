@@ -1,4 +1,4 @@
-![# Ethereum Classic Community Repository](../ref/banner_logo.svg)
+![# Ethereum Classic Community Repository](https://raw.githubusercontent.com/ethereumclassic/.github/9c0a40eb134ae6de8ac1e57ec73418b9836f5dd6/ref/banner_logo.svg)
 
 ## Description
 
